@@ -1,0 +1,10 @@
+The python files:
+
+Scraping-files.py: tagging and categorizing nouns and context using training data and using it on a text file only
+
+scraping-nonsemi.py: Categorizing Nouns through pos and tokenizing without semi supervised learning
+
+scraping-web: tagging and categorizing nouns and context using training data and using it on a random webpage
+
+
+The text files are for training and implementation of classification of nouns
